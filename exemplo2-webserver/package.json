@@ -1,0 +1,22 @@
+{
+  "name": "exemplo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/hapi": "^15.0.2",
+    "@types/node": "^9.6.2",
+    "hapi": "^15.2.0",
+    "node": "^9.11.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "^5.0.0",
+    "mocha": "^5.0.5"
+  }
+}
